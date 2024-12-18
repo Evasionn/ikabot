@@ -29,7 +29,7 @@ Ikabot is a cross-platform Python program that enhances your Ikariam game by off
 This project exists thanks to all the people who contribute.
 
 <a href="https://github.com/Ikabot-Collective/ikabot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ikabot-Collective/ikabot" />
+  <img src="https://contrib.rocks/image?repo=Ikabot-Collective/ikabot&v=123" />
 </a>
 
 ## Screenshots
